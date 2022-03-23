@@ -2,5 +2,12 @@
 this is editor notes '
  for the book so far
  
- chpater 1 is good
+ chapter 1 is good
  kep working on chapter 2
+
+more sugestions
+
+add theser things:
+
+more funn
+more java
